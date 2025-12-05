@@ -1,1 +1,1 @@
-print("di ko alam kung ano ipri print")
+
